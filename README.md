@@ -10,5 +10,4 @@ The website has the following features:<br />
 -Ride request and confirmation using AWS Lambda and Amazon API Gateway<br />
 -Real-time updates of unicorn location using Amazon Kinesis and Amazon SNS<br />
 -Interactive map using Mapbox GL JS<br />
-## License
-This project is licensed under the MIT License - see the [License](https://www.github.com/octokatherine](https://dzone.com/articles/wildrydes-serverless-web-application-with-terrafor)https://dzone.com/articles/wildrydes-serverless-web-application-with-terrafor) file for details.
+
